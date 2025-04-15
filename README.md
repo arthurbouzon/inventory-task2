@@ -14,12 +14,12 @@ The system allows users to manage a list of shoes, including:
 
 
 Table of Contents
-- [Description](description)
-- [Installation](installation)
-- [Usage](usage)
-- [Features](features)
-- [File Format](file-format)
-- [Credits](credits)
+- Description
+- Installation
+- Usage
+- Features
+- File Format
+- Credits
 
 
 Installation
